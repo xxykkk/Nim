@@ -1,2 +1,2 @@
 # Nim
-Nim游戏取石子简单实现
+Nim game stone removal simple implementation
